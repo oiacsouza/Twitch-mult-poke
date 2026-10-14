@@ -1,0 +1,18 @@
+{
+  "clientId": "SEU_CLIENT_ID_AQUI",
+  "clientSecret": "SEU_CLIENT_SECRET_AQUI",
+  "canais": [
+    "surskity11",
+    "tftoddy",
+    "axtlol",
+    "biscoitao",
+    "luccatv",
+    "xdaren_",
+    "clovaobengala",
+    "patopapao",
+    "matta",
+    "cogu"
+  ],
+  "intervalo": 60,
+  "porta": 3000
+}

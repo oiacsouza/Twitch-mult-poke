@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+
+# Configuration with credentials
+config.json
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+Thumbs.db
+.DS_Store
